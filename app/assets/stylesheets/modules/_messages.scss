@@ -31,6 +31,11 @@
       background-color: #ffffff;
     }
 
+    .main-chat__message-list {
+        height: calc(100vh - 190px);
+        background-color: #fafafa;
+    }
+
     .main-chat__message-form {
         height: 90px;
         background-color: #d2d2d2;
