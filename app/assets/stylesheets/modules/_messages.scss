@@ -21,7 +21,18 @@
           height: 20px;
           width: 260px;
           background-color: #d8d8d8;
-            
+          display: flex;
+          justify-content: space-between;
+        
+        .side-bar__user-name--box--user_name {
+          line-height: 20px;
+        }
+
+        .side-bar__user-name--box--aicon {
+          width: 60px;
+          background-color: white;
+        }
+
       }
     }
 
