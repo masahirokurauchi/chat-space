@@ -13,6 +13,18 @@
     .side-bar__user-name {
         height: 100px;
         background-color: #253141;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        
+
+    
+      .side-bar__user-name--box {
+          height: 20px;
+          width: 260px;
+          background-color: #d8d8d8;
+          
+      }
     }
 
     .side-bar__group-name {
