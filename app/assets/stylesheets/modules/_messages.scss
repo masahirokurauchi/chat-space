@@ -57,27 +57,32 @@
 
         .side-bar__group {
           height: 91px;
-          background-color: #ffffff;
+          background-color: #2f3e51;
           position: relative;
 
           .side-bar__group--name {
-            background-color: aqua;
+            background-color: #2f3e51;
             height: 15px;
             width: calc(300px - 40px);
             position: absolute;
             top: 20px;
             left: 20px;
+            line-height: 20px;
+            font-size: 15px;
+            color: #ffffff;
 
           }
 
           .side-bar__group--message {
-            background-color: blueviolet;
+            background-color: #2f3e51;
             height: 11px;
             width: calc(300px - 40px);
             position: absolute;
             top: 40px;
             left: 20px;
-
+            line-height: 11px;
+            font-size: 11px;
+            color: #ffffff;
 
           }
         }
