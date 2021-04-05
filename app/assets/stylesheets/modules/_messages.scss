@@ -102,7 +102,6 @@
 
       .main-chat__group-info--group {
         height: 100px;
-        background-color: blueviolet;
         position: absolute;
         left: 40px;
 
@@ -128,7 +127,18 @@
       }
 
       .main-chat__group-info--edit {
-
+        position: absolute;
+        right: 40px;
+        margin-top: 28px;
+        width: 72px;
+        height: 40px;
+        line-height: 40px;
+        padding: 0 20px;
+        text-decoration: none;
+        color: #38aef0;
+        border: 1px solid #38aef0;
+        font-size: 16px;
+        display: block;
       }
     }
 
