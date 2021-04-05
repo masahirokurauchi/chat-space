@@ -113,8 +113,15 @@
 
         }
         .member-list {
+          margin-top: 15px;
+          display: flex;
+          color: #999999;
+          font-size: 12px;
 
           .member-list__members {
+            list-style: none;
+            color: #999999;
+            font-size: 12px;
 
           }
         }
