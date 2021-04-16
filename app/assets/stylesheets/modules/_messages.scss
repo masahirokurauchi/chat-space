@@ -145,6 +145,27 @@
     .main-chat__message-list {
         height: calc(100vh - 190px);
         background-color: #fafafa;
+        padding: 35px 40px 0;
+      
+      .message-box {
+
+        .message-box__info {
+          .message-box__info--username {
+
+          }
+
+          .message-box__info--date {
+
+          }
+        }
+
+        .message-box__message {
+
+          .message-box__message--content {
+
+          }
+        }
+      }
     }
 
     .main-chat__message-form {
